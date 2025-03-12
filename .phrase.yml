@@ -9,6 +9,11 @@ phrase:
       params:
         file_format: simple_json
         locale_id: de-DE
+        
+    - file: en-GB.json
+      params:
+        file_format: simple_json
+        locale_id: en-GB
 
   pull:
     targets:
@@ -16,3 +21,8 @@ phrase:
       params:
         file_format: simple_json
         locale_id: de-DE
+        
+    - file: en-GB.json
+      params:
+        file_format: simple_json
+        locale_id: en-GB
