@@ -2,3 +2,10 @@ phrase:
   access_token: 6f26176255be72b61684b3ef6763dfe466f0735078c593625b6745264486b269
   project_id: 98a7a0af5c79bb1efbf53e797de8097e
   file_format: json
+  
+  push:
+    sources:
+    - file: ./de-DE.json
+      params:
+        file_format: json
+        locale_id: de-DE
