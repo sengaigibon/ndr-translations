@@ -1,1 +1,13 @@
-
+{
+  "ACCELERATION": "Beschleunigung",
+  "ACCELERATION_CUSTOMARY": "Sekunden (0-62 mph)",
+  "ACCELERATION_IMPERIAL": "Sekunden (0-62 mph)",
+  "ACCELERATION_KMH": "Beschleunigung (0-100 km/h)",
+  "ACCELERATION_METRIC": "Sekunden (0-100 km/h)",
+  "ACCELERATION_MPH": "Beschleunigung (0-60 mph)",
+  "ALL": "ganz",
+  "ASC": "Aufsteigender",
+  "AVAILABLE_FROM": "Dieses Fahrzeug wird erhältlich sein ab {value}",
+  "BENEFITS_DESKTOP_DISCLAIMER": "Das McLaren Qualified Programm kann von Land zu Land variieren und unterliegt den Allgemeinen Geschäftsbedingungen des McLaren Qualified Programms und allen geltenden Richtlinien. Wenn Sie detaillierte Informationen über die Vorteile, die Berechtigung, die Kriterien und die Bedingungen des McLaren Qualified Programms erhalten möchten, wenden Sie sich bitte an Ihren autorisierten McLaren Händler.",
+  "BENEFITS_DESKTOP_QUALIFIED_WARRANTY_CERTIFIED": "Mindestens 12 Monate McLaren Certified Garantie, mit der Option auf 24 Monate*"
+}
