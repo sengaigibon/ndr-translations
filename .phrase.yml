@@ -9,3 +9,10 @@ phrase:
       params:
         file_format: simple_json
         locale_id: de-DE
+
+  pull:
+    targets:
+    - file: de-DE.json
+      params:
+        file_format: simple_json
+        locale_id: de-DE
